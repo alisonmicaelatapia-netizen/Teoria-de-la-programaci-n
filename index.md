@@ -5,6 +5,7 @@
 
 ### 📍 Unidad 1: Fundamentos de la Programación
 [Ir a Unidad 1](unidad1.md)
+
 **Contenido:**  
 - Conceptos básicos de programación  
 - Algoritmos y pseudocódigo  
