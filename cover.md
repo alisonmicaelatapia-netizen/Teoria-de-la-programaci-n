@@ -1,10 +1,16 @@
-![LogoUNL](img/UNL.png)
+
 # UNIVERSIDAD NACIONAL DE LOJA
 ## FACULTAD DE LA ENERGÍA, LAS INDUSTRIAS Y LOS RECURSOS NATURALES NO RENOVABLES
 
-<font size="10"> **Carrera Computación** </font><br>
+### Carrera Computación
+<br>
+<br>
 
-**Teoría de la programación**
+![LogoUNL](img/Sello_UNL.png)
+
+<br>
+
+### Teoría de la programación
 
 **Primer ciclo**
 
