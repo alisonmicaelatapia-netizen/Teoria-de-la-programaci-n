@@ -1,4 +1,4 @@
-# Tareas entregadas
+# 💻 Tareas Entregadas de la Unidad 1
 ## Herramientas de algoritmos (pseudocódigo y diagramas de flujo)
 [Abrir el PDF](/unidad1/tareas/HerramientasDigitales.pdf)
 
