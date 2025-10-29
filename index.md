@@ -40,6 +40,6 @@
 
 ---
 
-🔝 [Volver al inicio](#índice-general)  
+🔝 [Volver a la carátula](#índice-general)  
 🧭 *Haz clic en las flechas para desplegar el contenido de cada unidad.*
 
