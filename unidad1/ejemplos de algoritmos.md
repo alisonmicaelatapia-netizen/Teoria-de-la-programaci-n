@@ -1,4 +1,4 @@
-# Ejemplos de algoritmos con estructuras lineales/secuenciales
+# Ejemplo de algoritmo con estructuras lineales/secuenciales
 
 <details>
   <summary><b>💡 Ver código de PSeInt</b></summary>
@@ -53,7 +53,6 @@
 
 <details>
 <summary><b>💡 Ver diagrama de flujo</b></summary>
-![Diagrama de flujo](img/diagrama_cambio.png)
-
-</details>
+  <img src="../img/diagramaFlujo.png" alt="Diagrama de flujo" width="200">
+```
 
