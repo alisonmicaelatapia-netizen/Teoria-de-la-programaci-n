@@ -1,4 +1,4 @@
-# Programación por bloques 
+# 🧱Programación por bloques 
 La programación en bloques es una forma de programación gráfica que permite crear algoritmos sencillos e instrucciones
 mediante bloques que se conectan como piezas de un rompecabezas. Este tipo de programación facilita la comprensión de 
 los fundamentos lógicos de la programación, ya que permite visualizar de manera clara el flujo de las instrucciones y los
@@ -9,4 +9,8 @@ páginas Blockly Games y PilasBloques, la cual presenta juegos interactivos orga
 algoritmos para cumplir las misiones o realizar las tareas correspondientes en cada nivel.
 
 A continuación, se muestra uno de los niveles realizados: <br>
-![Nivel](../img/bocklyGames.png)
+![Nivel](./img/bocklyGames.png)
+
+➡️ [**Ir a página siguiente**](/unidad1/contenidosUnidad/dificulatdes.md)
+
+➡️ [**Ir al índice**](/index.md)
