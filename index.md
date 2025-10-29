@@ -1,6 +1,6 @@
 # 📘 Unidad 1  
 
-## 🧩 Contenidos de la Unidad  
+## [🧩 Contenidos de la Unidad](/unidad1/contenidosUnidad/algoritmos.md)
 - [ ] **Algoritmos, pseudocódigo, diagrama de flujo**  
 - [ ] **Programación por bloques**  
 - [ ] **Ejemplos de algoritmos con estructuras lineales/secuenciales**  
