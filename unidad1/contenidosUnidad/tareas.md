@@ -1,6 +1,6 @@
 # Tareas entregadas
 ## Herramientas de algoritmos (pseudocódigo y diagramas de flujo)
-[📄 Abrir el PDF](../unidad1/tareas/HerramientasDigitales.pdf)
+[📄 Abrir el PDF](/unidad1/tareas/HerramientasDigitales.pdf)
 
 ## Instalación de lenguajes de programación (C, Python o Java)
 ## Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigoTarea
