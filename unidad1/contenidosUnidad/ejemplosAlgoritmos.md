@@ -1,4 +1,4 @@
-# Ejemplo de algoritmo con estructuras lineales/secuenciales
+# 🔢Ejemplo de algoritmo con estructuras lineales/secuenciales
 ## Algoritmo para calcular aceleración
 <details>
   <summary><b>💡 Ver código de PSeInt</b></summary>
