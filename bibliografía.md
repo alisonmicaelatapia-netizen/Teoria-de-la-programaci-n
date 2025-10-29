@@ -1,4 +1,4 @@
-# Bibliografía
+# 📚Bibliografía
 [1] M. M. Arteaga Martínez, *Lógica de programación con Pseint. Enfoque práctico*, 1ª ed. Fondo Editorial Remington, 2023. [En línea]. Disponible en: https://research.ebsco.com/linkprocessor/plink?id=0c1115b8-e552-38e4-bc75-bf84bbdd293f
 
 [2] F. Patiño Martínez y P. Chica Sosa, *Elaboración de algoritmos en pseudocódigo,” Universidad Cooperativa de Colombia, Villavicencio, Colombia*, 2024. [En línea]. Disponible en: https://hdl.handle.net/20.500.12494/59521
