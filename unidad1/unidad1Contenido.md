@@ -16,13 +16,6 @@
 - [x] **Del diseño del algoritmo con estructuras secuenciales a la construcción del programa**
 
 
-## [📚 Bibliografía](/bibliografía.md)
-  
----
-
-## [🤖 Uso de la IA Generativa](/unidad1/contenidosUnidad/usoIA.md)
-
-
 
 
 ➡️ [**Ir a página siguiente**](unidad1/contenidosUnidad/algoritmos.md)
