@@ -1,5 +1,5 @@
 # Ejemplo de algoritmo con estructuras lineales/secuenciales
-
+## Algoritmo para calcular aceleración
 <details>
   <summary><b>💡 Ver código de PSeInt</b></summary>
 
@@ -26,6 +26,14 @@
 </details>
 
 
+
+<details>
+<summary><b>💡 Ver diagrama de flujo</b></summary>
+  <img src="../img/diagramaFlujo.png" alt="Diagrama de flujo" width="200">
+</details>
+
+
+  
 <details>
   <summary><b>💡 Ver código en C</b></summary>
 
@@ -49,10 +57,3 @@
     }
 ```
 </details>
-
-
-<details>
-<summary><b>💡 Ver diagrama de flujo</b></summary>
-  <img src="../img/diagramaFlujo.png" alt="Diagrama de flujo" width="200">
-```
-
