@@ -14,6 +14,6 @@ Para la construcción de algoritmos se utilizó la aplicación **PSeInt**, la cu
 como mediante diagramas de flujo. Gracias a estas herramientas, se reforzó y consolidó el aprendizaje sobre la creación
 y uso de algoritmos. <br>
 
-➡️ [**Ir a página siguiente**](unidad1/contenidosUnidad/programacionBloques.md)
+➡️ [**Ir a página siguiente**](/unidad1/contenidosUnidad/programacionBloques.md)
 
 ➡️ [**Ir al índice**](/index.md)
