@@ -10,4 +10,4 @@ Te voy a mostrar mis documentos hechos en Markdown (.md) que uso en GitHub, y tu
 
 2. Explicarme las funciones básicas de Markdown y cómo se usan en GitHub (por ejemplo: cómo insertar imágenes, crear enlaces, usar tablas, checklists, quotes, etc.).
 
-➡️ [**Ir a al índice**](index.md)
+➡️ [**Ir a al índice**](/index.md)
