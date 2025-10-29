@@ -9,5 +9,5 @@ precisión para definir correctamente las variables y la expresión matemática.
 
 Finalmente, en el lenguaje C, se encontró dificultad al solicitar datos de entrada, dado que las funciones
 printf y scanf exigen una sintaxis estructurada, incluyendo el uso correcto de las máscaras de formato y 
-otros especificadores. La necesidad de una escritura precisa de la estructura del código fue crucial, 
-ya que un error en estos detalles comprometería su funcionalidad.
+otros especificadores. La escritura precisa de la estructura del código fue crucial, ya que un error en 
+estos detalles comprometería su funcionalidad.
