@@ -1,4 +1,4 @@
-# Declaración de uso de la IA generativa.
+# 🤖Declaración de uso de la IA generativa.
 Uso de la IA para mejora de la interfaz y desarrollar archivos en Markdownw
 
 **Prompt:**
@@ -10,3 +10,4 @@ Te voy a mostrar mis documentos hechos en Markdown (.md) que uso en GitHub, y tu
 
 2. Explicarme las funciones básicas de Markdown y cómo se usan en GitHub (por ejemplo: cómo insertar imágenes, crear enlaces, usar tablas, checklists, quotes, etc.).
 
+➡️ [**Ir a al índice**](index.md)
