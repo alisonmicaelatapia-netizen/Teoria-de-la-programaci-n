@@ -1,5 +1,5 @@
 # 🤖Declaración de uso de la IA generativa.
-Uso de la IA para mejora de la interfaz y desarrollar archivos en Markdownw
+Uso de la IA para mejora de la interfaz y desarrollar archivos en Markdown
 
 **Prompt:**
 
