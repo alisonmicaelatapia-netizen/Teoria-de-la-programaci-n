@@ -1,4 +1,5 @@
-# Algoritmos, pseudocódigo y diagrama de flujo 
+# CONTENIDOS DE LA UNIDAD
+# 💡 Algoritmos, pseudocódigo y diagrama de flujo 
 Los algoritmos están presentes no solo en la programación, sino también en nuestras actividades cotidianas, 
 y constituyen la base para la resolución de problemas. "Un algoritmo es una secuencia de pasos lógicamente ordenados 
 y finitos que permiten dar solución a un problema determinado" [1]. Para comprender mejor su estructura y construirlos 
