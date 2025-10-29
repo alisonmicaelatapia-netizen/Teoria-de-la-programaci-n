@@ -9,7 +9,7 @@
   - [📊 Algoritmos, pseudocódigo y diagramas de flujo](/unidad1/contenidosUnidad/algoritmos.md)
   - [💻 Programación por bloques](/unidad1/contenidosUnidad/bloques.md)
   - [🔢 Ejemplos de algoritmos con estructuras lineales/secuenciales](/unidad1/contenidosUnidad/estructuras-lineales.md)
-  - [⚙️ Principales dificultades en la aplicación de los contenidos](/unidad1/contenidosUnidad/dificultades.md)
+  - [⚙️ Principales dificultades en la aplicación de los contenidos](/unidad1/contenidosUnidad/dificulatdes.md)
   - [🧠 Reflexión crítica de los aprendizajes de la unidad](/unidad1/contenidosUnidad/reflexion.md)
 
   #### 📂 Tareas entregadas
