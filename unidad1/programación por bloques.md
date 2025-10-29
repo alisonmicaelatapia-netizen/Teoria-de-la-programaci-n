@@ -7,3 +7,6 @@ diferentes pasos del algoritmo. <br>
 comprender y crear programas con poca capacitación” [4]. Se realizaron ejercicios de programación en bloques mediante las 
 páginas Blockly Games y PilasBloques, la cual presenta juegos interactivos organizados por niveles, en los que se construyó
 algoritmos para cumplir las misiones o realizar las tareas correspondientes en cada nivel.
+
+A continuación, se muestra uno de los niveles realizados: <br>
+![Nivel9](img/Bockly Games.png)
