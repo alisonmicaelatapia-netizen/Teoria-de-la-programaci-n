@@ -9,17 +9,18 @@
 
 ---
 
-## 📂 Tareas entregadas  
+## [📂 Tareas entregadas](/unidad1/contenidosUnidad/tareas.md)
 - [x] **Herramientas de algoritmos (pseudocódigo y diagramas de flujo)**  
 - [x] **Instalación de lenguajes de programación (C, Python o Java)**  
 - [x] **Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo**  
 - [x] **Del diseño del algoritmo con estructuras secuenciales a la construcción del programa**
 
 
-### 📚 Referencias  
+## 📚 Referencias  
   
 ---
 
-### 🤖 Uso de la IA Generativa  
+## 🤖 Uso de la IA Generativa  
 
 ---
+
