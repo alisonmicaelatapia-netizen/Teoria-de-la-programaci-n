@@ -7,3 +7,4 @@
 
 [4] E. Guzmán Y Valle, A. Máter, D. Magisterio, N. Facultad, D. E. Ciencias, y H. C. Tineo, *UNIVERSIDAD NACIONAL DE EDUCACIÓN,* [En línea]. Disponible en: https://repositorio.une.edu.pe/server/api/core/bitstreams/2e2e6a55-fc90-427c-9f76-672b903aeb24/content. (Consultado: 28 octubre 2025).
 
+➡️ [**Ir al índice**](/index.md)
