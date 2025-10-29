@@ -1,4 +1,4 @@
-# Reflexión crítica de los aprendizajes de la unidad
+# 💭Reflexión crítica de los aprendizajes de la unidad
 Durante esta unidad, adquirí conocimientos sobre la creación de algoritmos, mejorando mi pensamiento lógico y capacidad
 de resolución de problemas. Aprendí la estructura fundamental de un algoritmo (entrada, proceso y salida) y sus principios
 básicos, tales como la definición de variables, la asignación, los tipos de operadores y los tipos de datos.
@@ -11,3 +11,7 @@ en soluciones computacionales funcionales
 En el lenguaje C, dominé su sintaxis, la implementación de librerías, y la correcta aplicación de tipos de datos y
 máscaras de formato para la entrada y salida de datos y la compilación de archivos del lenguaje. Esto me permitió crear
 soluciones que son eficientes, lógicas y estructuradas.
+
+➡️ [**Ir a página siguiente**](/unidad1/contenidosUnidad/tareas.md)
+
+➡️ [**Ir al índice**](/index.md)
