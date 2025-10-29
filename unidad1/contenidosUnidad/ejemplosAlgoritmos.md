@@ -29,7 +29,7 @@
 
 <details>
 <summary><b>💡 Ver diagrama de flujo</b></summary>
-  <img src="img/diagramaFlujo.png" alt="Diagrama de flujo" width="200">
+  <img src="/img/diagramaFlujo.png" alt="Diagrama de flujo" width="200">
 </details>
 
 
