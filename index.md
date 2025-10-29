@@ -3,10 +3,6 @@
 > Navega fácilmente por los contenidos del repositorio 👇
 
 <details>
-  <summary>🧩 <strong>Carátula</strong></summary>
-</details>  
-
-<details>
   <summary>🧩 <strong>Unidad 1</strong></summary>
 
   #### 🧩 Contenidos de la Unidad
@@ -17,10 +13,10 @@
   - [🧠 Reflexión crítica de los aprendizajes de la unidad](/unidad1/contenidosUnidad/reflexion.md)
 
   #### 📂 Tareas entregadas
-  - [🧾 Herramientas de algoritmos (pseudocódigo y diagramas de flujo)](/unidad1/tareas/herramientas.md)
-  - [🖥️ Instalación de lenguajes de programación (C, Python o Java)](/unidad1/tareas/instalacion.md)
-  - [🧮 Primer acercamiento a la construcción de algoritmos secuenciales](/unidad1/tareas/primer-acercamiento.md)
-  - [🔄 Del diseño del algoritmo a la construcción del programa](/unidad1/tareas/del-diseno-al-programa.md)
+  - [🧾 Herramientas de algoritmos (pseudocódigo y diagramas de flujo)](/unidad1/tareas/HerramientasDigitales.pdf)
+  - [🖥️ Instalación de lenguajes de programación (C, Python o Java)](/unidad1/tareas/InstalaciónLenguajes.pdf)
+  - [🧮 Primer acercamiento a la construcción de algoritmos secuenciales](/unidad1/tareas/PrácticaLaboratorioN1.pdf)
+  - [🔄 Del diseño del algoritmo a la construcción del programa](/unidad1/tareas/construcciónPrograma.pdf)
 
 </details>
 
