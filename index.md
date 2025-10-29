@@ -1,47 +1,25 @@
-# 🧠 Teoría de la Programación  
-## 📘 Portafolio Digital de Aprendizaje  
+# 📘 Unidad 1  
+
+## 🧩 Contenidos de la Unidad  
+- [ ] **Algoritmos, pseudocódigo, diagrama de flujo**  
+- [ ] **Programación por bloques**  
+- [ ] **Ejemplos de algoritmos con estructuras lineales/secuenciales**  
+- [ ] **Principales dificultades en la aplicación de los contenidos**  
+- [ ] **Reflexión crítica de los aprendizajes de la unidad**  
 
 ---
 
-### 📍 Unidad 1: Fundamentos de la Programación
-[Ir a Unidad 1](unidad1.md)
+## 📂 Tareas entregadas  
+- [x] **Herramientas de algoritmos (pseudocódigo y diagramas de flujo)**  
+- [x] **Instalación de lenguajes de programación (C, Python o Java)**  
+- [x] **Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo**  
+- [x] **Del diseño del algoritmo con estructuras secuenciales a la construcción del programa**
 
-**Contenido:**  
-- Conceptos básicos de programación  
-- Algoritmos y pseudocódigo  
-- Lenguajes de programación y su clasificación  
-
----
-
-### ⚙️ Unidad 2: Estructuras Lógicas y de Control  
-**Contenido:**  
-- Condicionales (`if`, `else`, `switch`)  
-- Bucles (`for`, `while`)  
-- Operadores lógicos y relacionales  
-
----
-
-### 💻 Unidad 3: Resolución de Problemas y Algoritmos  
-**Contenido:**  
-- Métodos para resolver problemas computacionales  
-- Modularidad y funciones  
-- Buenas prácticas de programación  
-
----
-
-### 🧩 Conclusiones  
-Reflexión personal sobre el aprendizaje adquirido y su aplicación práctica en el desarrollo de algoritmos.
-
----
 
 ### 📚 Referencias  
-- Material de clase y documentación oficial de Python  
-- Recursos educativos sobre fundamentos de programación  
-- Artículos y tutoriales de apoyo  
-
+  
 ---
 
 ### 🤖 Uso de la IA Generativa  
-Explicación del uso responsable y ético de herramientas de inteligencia artificial (como ChatGPT o Copilot) durante el proceso de aprendizaje y desarrollo de este portafolio.
 
 ---
