@@ -22,5 +22,7 @@
 
 ## [🤖 Uso de la IA Generativa](/unidad1/contenidosUnidad/usoIA.md)
 
+➡️ [**Ir a inicio**](cover.md)
+
 ---
 
