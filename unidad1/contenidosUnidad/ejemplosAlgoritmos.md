@@ -56,4 +56,9 @@
         printf("La aceleracion es: %.2f m/s^2", aceleracion);
     }
 ```
+
 </details>
+
+➡️ [**Ir a página siguiente**](/unidad1/contenidosUnidad/dificulatdes.md)
+
+➡️ [**Ir al índice**](/index.md)
