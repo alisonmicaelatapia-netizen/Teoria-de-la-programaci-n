@@ -10,3 +10,6 @@
 
 ### Del diseño del algoritmo con estructuras secuenciales a la construcción del programa
 [Abrir el PDF](/unidad1/tareas/construcciónPrograma.pdf)
+
+
+➡️ [**Ir al índice**](/index.md)
