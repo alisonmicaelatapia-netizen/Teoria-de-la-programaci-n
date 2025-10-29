@@ -1,23 +1,19 @@
 
-# UNIVERSIDAD NACIONAL DE LOJA
-## FACULTAD DE LA ENERGÍA, LAS INDUSTRIAS Y LOS RECURSOS NATURALES NO RENOVABLES
+![LogoUNL](img/UNL.png)
 
-### Carrera Computación
-<br>
-<br>
+# 🏛️ UNIVERSIDAD NACIONAL DE LOJA  
 
-![LogoUNL](img/Sello_UNL.png)
+## ⚡ Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables  
 
-<br>
+### 💻 Carrera: **Computación**  
+📚 Asignatura: **Teoría de la Programación**  
+🎓 Nivel: **Primer ciclo**  
+🗓️ Período académico: **Septiembre 2025 – Febrero 2026**  
 
-### Teoría de la programación
+---
+👩‍🏫 Docente: **PhD. Lissette López**
 
-**Primer ciclo**
+🧑‍🎓 Estudiante: **Alison Tapia**
 
-Septiembre 2025 - febrero 2026
+---
 
-**Docente:** PhD. Lissette López
-
-**Estudiante:** Alison Tapia
-
-➡️ [**Ir a al índice**](index.md)
