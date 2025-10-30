@@ -25,7 +25,7 @@ algoritmos. A lo largo de esta unidad hemos venido trbajando con ejercicios prá
 
 ![Algoritmo Suma](/img/suma.png) <br>
 
-> *Nota:* La imagen representa el algoritmo para realizar una suma de dos números desarrollado con Pseudocódigo en la apliacación PSeInt.
+> *Nota:* La imagen representa el algoritmo para realizar una suma de dos números desarrollado con pseudocódigo en la apliacación PSeInt.
 
 A su vez, los diagramas de flujo refuerzan este aprendizaje al ofrecer una representación visual del proceso.
 "Mediante ellos, se ilustra gráficamente la secuencia de operaciones necesarias para resolver un problema" [3]. <br>
