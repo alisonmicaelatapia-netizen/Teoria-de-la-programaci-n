@@ -17,7 +17,7 @@ de forma eficiente, se emplearon el pseudocódigo y los diagramas de flujo. <br>
 
 "El pseudocódigo es una forma sencilla, compacta y escrita en lenguaje natural para expresar algoritmos, siguiendo una
 sintaxis y reglas establecidas" [2]. Es un tipo de lenguaje intermedio que combina el lenguage natural con el lenguaje de progrmación. Esto facilita una mejor comprensión de los conceptos y del funcionamiento de los 
-algoritmos. A lo largo de esta unidad hemos venido trbajando con ejercicios prácticos con pseudocodigo con los cuales se ha puesto en prátcica conceptos como variables, declaración de variables, constantes, tipos de datos, operadores y datos de  entrada y salida.
+algoritmos en la aplicación PSeInt. A lo largo de esta unidad hemos venido trbajando con ejercicios prácticos con pseudocodigo con los cuales se ha puesto en prátcica conceptos como variables, declaración de variables, constantes, tipos de datos, operadores y datos de  entrada y salida.
 
 > **Figura 1** <br>
 *Algoritmo suma*
@@ -27,7 +27,7 @@ algoritmos. A lo largo de esta unidad hemos venido trbajando con ejercicios prá
 
 > *Nota:* La imagen representa el algoritmo para realizar una suma de dos números desarrollado con pseudocódigo en la apliacación PSeInt.
 
-A su vez, los diagramas de flujo refuerzan este aprendizaje al ofrecer una representación visual del proceso.
+Para una mejor compresión de los algoritmos se utilizaron los diagramas de flujo, los cuales son una representación grafica del algoritmo mediante el uso de símbolos que describen las instrucciones o pasos a realizados. La aplicación usada para realizar los diagramas de flujo fue PSeInt pero existen otros aplicaciones como Draw.io, Lucidchart, etc que permiten la ceracion de los mismos. Con su uso se reforzó lso conceptos y proceso del algoritmo a travez de una interfaz visual.
 "Mediante ellos, se ilustra gráficamente la secuencia de operaciones necesarias para resolver un problema" [3]. <br>
 
 Para la construcción de algoritmos se utilizó la aplicación **PSeInt**, la cual permite desarrollarlos tanto en pseudocódigo
