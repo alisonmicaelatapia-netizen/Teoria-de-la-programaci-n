@@ -1,8 +1,8 @@
 # CONTENIDOS DE LA UNIDAD
 # 💡 Algoritmos, pseudocódigo y diagrama de flujo 
 Los algoritmos están presentes no solo en la programación, sino también en nuestras actividades cotidianas, 
-y constituyen la base para la resolución de problemas. "Un algoritmo es una secuencia de pasos lógicamente ordenados 
-y finitos que permiten dar solución a un problema determinado" [1], el algoritmo debe ser preciso, definido y finito. Existen dos tipos de algoritmos los algoritmos:
+y constituyen la base para la resolución de problemas. Un algoritmo es una secuencia de pasos lógicamente ordenados 
+y finitos que permiten dar solución a un problema determinado [1], el algoritmo debe ser preciso, definido y finito. Existen dos tipos de algoritmos los algoritmos:
 * **Cualitativos:**  Utilizan instrucciones verbales o descriptivas para resolver un problema, en lugar de cálculos matemáticos. 
 * **Cuantitativos:**  Utiliza cálculos numéricos y operaciones matemáticas para resolver un problema o realizar una tarea.
 
@@ -17,9 +17,15 @@ de forma eficiente, se emplearon el pseudocódigo y los diagramas de flujo. <br>
 
 "El pseudocódigo es una forma sencilla, compacta y escrita en lenguaje natural para expresar algoritmos, siguiendo una
 sintaxis y reglas establecidas" [2]. Es un tipo de lenguaje intermedio que combina el lenguage natural con el lenguaje de progrmación. Esto facilita una mejor comprensión de los conceptos y del funcionamiento de los 
-algoritmos.
+algoritmos. A lo largo de esta unidad hemos venido trbajando con ejercicios prácticos con pseudocodigo con los cuales se ha puesto en prátcica conceptos como variables, declaración de variables, constantes, tipos de datos, operadores y datos de  entrada y salida.
 
-![Algoritmo Suma](/img/suma.png)
+> **Figura 1** <br>
+*Algoritmo suma*
+
+
+![Algoritmo Suma](/img/suma.png) <br>
+
+> *Nota:* La imagen representa el algoritmo para realizar una suma de dos números desarrollado con Pseudocódigo en la apliacación PSeInt.
 
 A su vez, los diagramas de flujo refuerzan este aprendizaje al ofrecer una representación visual del proceso.
 "Mediante ellos, se ilustra gráficamente la secuencia de operaciones necesarias para resolver un problema" [3]. <br>
