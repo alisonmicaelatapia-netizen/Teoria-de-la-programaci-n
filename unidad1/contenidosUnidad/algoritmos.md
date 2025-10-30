@@ -19,7 +19,7 @@ de forma eficiente, se emplearon el pseudocódigo y los diagramas de flujo. <br>
 sintaxis y reglas establecidas" [2]. Es un tipo de lenguaje intermedio que combina el lenguage natural con el lenguaje de progrmación. Esto facilita una mejor comprensión de los conceptos y del funcionamiento de los 
 algoritmos.
 
-![Algoritmo Suma](img/suma.png)
+![Algoritmo Suma](/img/suma.png)
 
 A su vez, los diagramas de flujo refuerzan este aprendizaje al ofrecer una representación visual del proceso.
 "Mediante ellos, se ilustra gráficamente la secuencia de operaciones necesarias para resolver un problema" [3]. <br>
