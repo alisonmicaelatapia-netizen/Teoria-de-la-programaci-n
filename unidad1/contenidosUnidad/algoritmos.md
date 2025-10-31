@@ -1,6 +1,8 @@
 # CONTENIDOS DE LA UNIDAD
 # 💡 Algoritmos, pseudocódigo y diagrama de flujo 
-Los algoritmos están presentes no solo en la programación, sino también en nuestras actividades cotidianas, y constituyen la base para la resolución de problemas. "Un algoritmo es una secuencia de pasos lógicamente ordenados y finitos que permiten dar solución a un problema determinado "[1]. El algoritmo debe ser preciso, definido y finito. Existen dos tipos de algoritmos:
+Los algoritmos están presentes no solo en la programación, sino también en nuestras actividades cotidianas, y constituyen la base para la
+resolución de problemas. "Un algoritmo es una secuencia de pasos lógicamente ordenados y finitos que permiten dar solución a un problema 
+determinado"[1]. El algoritmo debe ser preciso, definido y finito. Existen dos tipos de algoritmos:
 
 * **Cualitativos:**  Utilizan instrucciones verbales o descriptivas para resolver un problema. 
 * **Cuantitativos:**  Utiliza cálculos numéricos y operaciones matemáticas para resolver un problema o realizar una tarea.
@@ -29,7 +31,10 @@ A lo largo de esta unidad, se ha trabajado con ejercicios prácticos en pseudoc�
 
 > *Nota:* La imagen representa el algoritmo para realizar una suma de dos números desarrollado con pseudocódigo en la apliacación PSeInt.
 
-Para una mejor comprensión de los algoritmos, se utilizaron los diagramas de flujo, los cuales son una representación gráfica del algoritmo mediante símbolos que describen las instrucciones o pasos a realizar. “Mediante ellos, se ilustra gráficamente la secuencia de operaciones necesarias para resolver un problema” [3]. Con su uso, se reforzaron los conceptos y procesos del algoritmo a través de una interfaz visual. <br>
+Para una mejor comprensión de los algoritmos, se utilizaron los diagramas de flujo, los cuales son una representación gráfica del 
+algoritmo mediante símbolos que describen las instrucciones o pasos a realizar. “Mediante ellos, se ilustra gráficamente la secuencia de 
+operaciones necesarias para resolver un problema” [3]. Con su uso, se reforzaron los conceptos y procesos del algoritmo a través de una 
+interfaz visual. <br>
 
 > **Figura 2** <br>
 *Diagrama de flujo algoritmo suma*
@@ -38,7 +43,8 @@ Para una mejor comprensión de los algoritmos, se utilizaron los diagramas de fl
 ![Algoritmo Suma](/img/diagramaFlujo.png) <br> 
 > *Nota:* La imagen representa el diagrama de flujo del algoritmo anterior de la suma de dos números.
 
-Para la realización del algoritmo, primeramente se definieron las variables con su tipo de dato; luego se establecieron los datos de entrada, se aplicó la fórmula para calcular la suma de dos números y, finalmente, se mostró el resultado en pantalla.
+Para la realización del algoritmo, primeramente se definieron las variables con su tipo de dato; luego se establecieron los datos de
+entrada, se aplicó la fórmula para calcular la suma de dos números y, finalmente, se mostró el resultado en pantalla.
 
 ➡️ [**Ir a página siguiente**](/unidad1/contenidosUnidad/programacionBloques.md)
 
