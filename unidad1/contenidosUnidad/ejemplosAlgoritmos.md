@@ -1,10 +1,11 @@
 # 🔢Ejemplo de algoritmo con estructuras lineales/secuenciales
 ## Algoritmo para calcular aceleración
+
 <details>
   <summary><b>💡 Ver código de PSeInt</b></summary>
 
     
-    ```
+  ```pseudocode
     Algoritmo aceleracion1
     	//Variables
     	Definir vIncial, vFinal, tiempo, aceleracion Como Real;
@@ -23,6 +24,7 @@
     	//Salida
     	Escribir "La aceleracion es: ",aceleracion " m/s^2";
     FinAlgoritmo
+  ```
 </details>
 
 
