@@ -39,8 +39,9 @@ Para una mejor compresión de los algoritmos se utilizaron los diagramas de fluj
 
 
 ![Algoritmo Suma](/img/diagramaFlujo.png) <br> 
+> *Nota:* La imagen representa el diagrama de flujo del algoritmo anterior de la suma de dos números.
 
-
+Para la realización del algoritmo primeramente se definió las variables con su tipo de dato, luego se definió los datos de entrada, después se realizó la formula para calcular la suma de dos números y finalmente se muestra el resultado en pantalla.
 
 ➡️ [**Ir a página siguiente**](/unidad1/contenidosUnidad/programacionBloques.md)
 
