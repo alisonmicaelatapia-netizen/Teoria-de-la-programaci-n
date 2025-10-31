@@ -12,6 +12,4 @@ En el lenguaje C, dominé su sintaxis, la implementación de librerías, y la co
 máscaras de formato para la entrada y salida de datos y la compilación de archivos del lenguaje. Esto me permitió crear
 soluciones que son eficientes, lógicas y estructuradas.
 
-➡️ [**Ir a página siguiente**](/unidad1/contenidosUnidad/tareas.md)
-
 ➡️ [**Ir al índice**](/index.md)
