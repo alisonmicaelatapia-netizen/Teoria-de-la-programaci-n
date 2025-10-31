@@ -2,7 +2,7 @@
 # 💡 Algoritmos, pseudocódigo y diagrama de flujo 
 Los algoritmos están presentes no solo en la programación, sino también en nuestras actividades cotidianas, y constituyen la base para la
 resolución de problemas. "Un algoritmo es una secuencia de pasos lógicamente ordenados y finitos que permiten dar solución a un problema 
-determinado"[1]. El algoritmo debe ser preciso, definido y finito. Existen dos tipos de algoritmos:
+determinado" [1]. El algoritmo debe ser preciso, definido y finito. Existen dos tipos de algoritmos:
 
 * **Cualitativos:**  Utilizan instrucciones verbales o descriptivas para resolver un problema. 
 * **Cuantitativos:**  Utiliza cálculos numéricos y operaciones matemáticas para resolver un problema o realizar una tarea.
