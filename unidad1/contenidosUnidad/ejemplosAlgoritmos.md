@@ -1,7 +1,10 @@
 # 🔢Ejemplo de algoritmo con estructuras lineales/secuenciales
 ## Algoritmo para calcular aceleración
 
-Para la realización de este algoritmo primeramente se establecio las variables que se van a utilizar y definir su tipo de dato y también establecer los datos de entrada y salida, luego pedir al usuario los datos de entrada (para recopialr información en PSeInt se utiliza **Leer** y en C el **scanf**), luego de ello realizar el proceso el cual el aplicar la formula para determinar la aceleración y finalmente al resultado encontrado se lo muestra en pantalla (en PSeInt se lo hace medinate **Escribir** y en C con **printf**).
+Para la realización de este algoritmo primeramente se establecio las variables que se van a utilizar y definir su tipo de dato y también 
+establecer los datos de entrada y salida, luego pedir al usuario los datos de entrada (para recopialr información en PSeInt se utiliza 
+**Leer** y en C el **scanf**), luego de ello realizar el proceso el cual el aplicar la formula para determinar la aceleración y finalmente 
+al resultado encontrado se lo muestra en pantalla (en PSeInt se lo hace medinate **Escribir** y en C con **printf**). Este algoritmo se lo realizo en un principio en PSeInt para verificar y entender el funcionamiento del algoritmo y luego se lo pasó al lenguaje C.
 <details>
   <summary><b>💡 Ver código de PSeInt</b></summary>
 
