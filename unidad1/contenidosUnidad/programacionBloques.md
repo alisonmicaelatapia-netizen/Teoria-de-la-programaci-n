@@ -9,7 +9,12 @@ páginas Blockly Games y PilasBloques, la cual presenta juegos interactivos orga
 algoritmos para cumplir las misiones o realizar las tareas correspondientes en cada nivel.
 
 A continuación, se muestra uno de los niveles realizados: <br>
+
+> **Figura 3** <br>
+*Programación en bloques*
+
 ![Nivel](/img/bocklyGames.png)
+> *Nota: La imagen muestra el nivel 9 de la plataforma Blockly Games* 
 
 ➡️ [**Ir a página siguiente**](/unidad1/contenidosUnidad/ejemplosAlgoritmos.md)
 
