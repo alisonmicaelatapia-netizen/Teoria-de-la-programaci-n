@@ -34,7 +34,7 @@
 
 ---
 
-## 🤖 [Uso de la IA Generativa](/unidad1/contenidosUnidad/usoIA.md)
+## 🤖 [Uso de la IA Generativa](usoIA.md)
 
 ## 📚 [Bibliografía](/bibliografía.md)
 
