@@ -40,6 +40,6 @@
 
 ---
 
-🔝 [Volver a la carátula](cover.md)  
+🔝 [Volver a la carátula](caratula.md)  
 🧭 *Haz clic en las flechas para desplegar el contenido de cada unidad.*
 
