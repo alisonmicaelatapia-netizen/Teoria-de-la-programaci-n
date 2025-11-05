@@ -49,7 +49,7 @@ Además, se realizaron pruebas de escritorio, las cuales permiten simular manual
 *Pruebas de escritorio algoritmo suma*
 
 
-![ Pruebas Escritorio Algoritmo Suma](/img/pruebaEscritorio.png) <br> 
+![ Pruebas Escritorio Algoritmo Suma](/img/pruebaEscritorio1.png) <br> 
 > *Nota:* La imagen representa las pruebas de escritorio del algoritmo anterior de la suma de dos números.
 
 También se introdujo el lenguaje C, un lenguaje de programación de propósito general, estructurado y muy eficiente, que permite implementar los algoritmos de forma práctica. Gracias a su potencia y flexibilidad, C es ampliamente utilizado para desarrollar programas que requieren alto rendimiento y control sobre los recursos del sistema.
