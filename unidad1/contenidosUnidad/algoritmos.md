@@ -43,6 +43,17 @@ interfaz visual. <br>
 ![Algoritmo Suma](/img/diagramaFlujo.png) <br> 
 > *Nota:* La imagen representa el diagrama de flujo del algoritmo anterior de la suma de dos números.
 
+Además, se realizaron pruebas de escritorio, las cuales permiten simular manualmente la ejecución del algoritmo paso a paso, verificando los valores de las variables y los resultados obtenidos. Este método es útil para detectar errores lógicos antes de ejecutar el programa en la computadora.
+
+> **Figura 3** <br>
+*Pruebas de escritorio algoritmo suma*
+
+
+![ Pruebas Escritorio Algoritmo Suma](/img/pruebaEscritorio.png) <br> 
+> *Nota:* La imagen representa las pruebas de escritorio del algoritmo anterior de la suma de dos números.
+
+También se introdujo el lenguaje C, un lenguaje de programación de propósito general, estructurado y muy eficiente, que permite implementar los algoritmos de forma práctica. Gracias a su potencia y flexibilidad, C es ampliamente utilizado para desarrollar programas que requieren alto rendimiento y control sobre los recursos del sistema.
+
 Para la realización del algoritmo, primeramente se definieron las variables con su tipo de dato; luego se establecieron los datos de
 entrada, se aplicó la fórmula para calcular la suma de dos números y, finalmente, se mostró el resultado en pantalla.
 
