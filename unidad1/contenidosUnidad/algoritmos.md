@@ -40,7 +40,7 @@ interfaz visual. <br>
 *Diagrama de flujo algoritmo suma*
 
 
-![Algoritmo Suma](/img/diagramaFlujo.png) <br> 
+![Algoritmo Suma](/img/algoritmoSuma.png) <br> 
 > *Nota:* La imagen representa el diagrama de flujo del algoritmo anterior de la suma de dos números.
 
 Además, se realizaron pruebas de escritorio, las cuales permiten simular manualmente la ejecución del algoritmo paso a paso, verificando los valores de las variables y los resultados obtenidos. Este método es útil para detectar errores lógicos antes de ejecutar el programa en la computadora.
