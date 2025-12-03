@@ -56,6 +56,7 @@ También se introdujo el lenguaje C, un lenguaje de programación de propósito 
 
 Además, C es un lenguaje compilado, lo que significa que el código fuente debe traducirse a código máquina antes de ejecutarse. Para ello, se siguen generalmente estos pasos:
 1.	Escribir el código fuente en un archivo con extensión .c.
+
    
 En Windows por terminal:
 - Compilarlo:
