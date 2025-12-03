@@ -55,16 +55,17 @@ Además, se realizaron pruebas de escritorio, las cuales permiten simular manual
 También se introdujo el lenguaje C, un lenguaje de programación de propósito general, estructurado y muy eficiente, que permite implementar los algoritmos de forma práctica. Gracias a su potencia y flexibilidad, C es ampliamente utilizado para desarrollar programas que requieren alto rendimiento y control sobre los recursos del sistema.
 
 Además, C es un lenguaje compilado, lo que significa que el código fuente debe traducirse a código máquina antes de ejecutarse. Para ello, se siguen generalmente estos pasos:
-1.	Escribir el código fuente en un archivo con extensión .c.
+> **1.**	Escribir el código fuente en un archivo con extensión .c.
 
    
-En Windows por terminal:
-- Compilarlo:
-  gcc .\hola_mundo.c -o hola_mundo
-- Ejecutarlo:
-  .\hola_mundo.exe
-2.	Corregir errores en caso de que el compilador reporte fallos.
-3.	Ejecutar el programa resultante una vez que la compilación haya sido exitosa.
+> **En Windows por terminal:**
+   - Compilarlo:
+     gcc .\hola_mundo.c -o hola_mundo
+   - Ejecutarlo:
+     .\hola_mundo.exe
+> **2.**	Corregir errores en caso de que el compilador reporte fallos.
+
+> **3.**	Ejecutar el programa resultante una vez que la compilación haya sido exitosa.
 
 
 Para la realización del algoritmo, primeramente se definieron las variables con su tipo de dato; luego se establecieron los datos de
