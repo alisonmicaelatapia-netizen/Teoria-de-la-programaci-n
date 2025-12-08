@@ -27,7 +27,7 @@
   - [🔀 Estructuras condicionales](/unidad2/contenidosUnidad/condicionales.md)
   - [🔁 Estructuras repetitivas](/unidad2/contenidosUnidad/repetitivas.md)
   - [🔄 Ejercicio combinando estructura condicional y repetitiva](/unidad1/contenidosUnidad/ejemplosAlgoritmos.md)
-  - [⚙️ Principales dificultades en la aplicación de los contenidos](/unidad1/contenidosUnidad/dificulatdes.md)
+  - [⚙️ Principales dificultades en la aplicación de los contenidos](/unidad2/contenidosUnidad/dificultades.md)
   - [🧠 Reflexión crítica de los aprendizajes de la unidad](/unidad1/contenidosUnidad/relfexión.md)
 
   #### 📂 Tareas entregadas
