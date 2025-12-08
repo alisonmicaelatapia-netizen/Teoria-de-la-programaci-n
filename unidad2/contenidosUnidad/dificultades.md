@@ -1,13 +1,10 @@
 # ⚙️Principales dificultades en la aplicación de los contenidos
-Durante la implementación de los algoritmos surgieron varias dificultades, especialmente al adaptar la sintaxis entre PSeInt y el lenguaje C.
+Durante el desarrollo de los programas al momento de utilizar bucles, uno de los aspectos más difíciles fue redactar correctamente la condición y asegurar que existiera una actualización adecuada del contador o variable de control, pues de lo contrario podían generarse bucles infinitos que impedían la correcta ejecución del programa. 
 
-En C, uno de los problemas más comunes fue olvidar incluir las bibliotecas, usar mal las máscaras en printf o scanf, o no guardar el archivo antes de ejecutar y creer que el código no funcionaba.
-En PSeInt, a veces asignaba valores a la variable equivocada o confundía los nombres, lo que provocaba resultados erróneos.
+Además, al trabajar con estructuras condicionales, fue necesario revisar cuidadosamente que las condiciones estuvieran bien formuladas especialmente si se usa operadores como AND ( && ) u OR ( || ), ya que un pequeño error en la expresión podía cambiar por completo el comportamiento del programa.
 
-También fue un reto entender los errores de compilación, ya que algunos mensajes no eran tan claros y costaba identificar en qué parte del código estaba el fallo.
-Además, al momento de aplicar las fórmulas de física, había que tener cuidado con las unidades y tipos de dato, porque un número mal declarado cambiaba completamente el resultado.
+Aunque al inicio se cometieron varios errores, la práctica permitió mejorar la organización del código, fortalecer el razonamiento lógico y desarrollar mayor precisión al momento de programar.
 
-Aunque fue un proceso de ensayo y error, cada dificultad ayudó a mejorar la atención al detalle, fortalecer la lógica de programación y ganar más confianza al escribir código.
 
 ➡️ [**Ir a página siguiente**](/unidad1/contenidosUnidad/relfexión.md)
 
