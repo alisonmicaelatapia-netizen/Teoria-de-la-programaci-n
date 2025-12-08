@@ -1,6 +1,8 @@
 # CONTENIDOS DE LA UNIDAD
 # 🔀 Estructuras condicionales
-Las estructuras condicionales son herramientas de programación que permiten que un programa tome decisiones y siga diferentes caminos en función de si una condición es verdadera o falsa haciendo que el programa sea  más inteligente y adaptable.  En síntesis, es “la ruta que debe tomar la ejecución de instrucciones de un algoritmo/programa (tomas de decisiones)” [1]. 
+Las estructuras condicionales son herramientas fundamentales de la programación que permiten a un programa analizar situaciones y tomar decisiones, haciendo que la ejecución no sea siempre lineal. Gracias a ellas, el programa puede evaluar una condición y seguir diferentes caminos según si dicha condición resulta verdadera o falsa, lo que lo vuelve más inteligente, flexible y adaptable a distintos escenarios.
+
+En síntesis, una estructura condicional define “la ruta que debe tomar la ejecución de instrucciones de un algoritmo o programa en función de una toma de decisiones” [1]. Su uso es esencial para resolver problemas reales, ya que permite que el programa reaccione de manera lógica ante distintas entradas o situaciones.
 
 **Tipos**
 * **if Simple:** Ejecuta un bloque de código que si una condición es verdadera. Si es falsa no se ejecuta.
@@ -42,6 +44,9 @@ Las estructuras condicionales son herramientas de programación que permiten que
 ![Algoritmo Suma](/img/diaDeLaSemana.png) <br>
 ![Algoritmo Suma](/img/dias.png) <br>
 <br>
+
+Se realizaron varios ejercicios propuestos por la docente con el objetivo de reforzar estos temas. Dichas actividades se desarrollaron principalmente en el lenguaje **C** y, en menor cantidad, en el lenguaje **Java**. Gracias a esta práctica constante, se lograron **sentar las bases conceptuales** y **consolidar el aprendizaje**, permitiendo una mejor comprensión y aplicación de los contenidos estudiados.
+
 
 ➡️ [**Ir a página siguiente**](/unidad2/contenidosUnidad/repetitivas.md) 
 
