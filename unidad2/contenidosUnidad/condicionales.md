@@ -45,7 +45,7 @@ En síntesis, una estructura condicional define “la ruta que debe tomar la eje
 ![Algoritmo Suma](/img/dias.png) <br>
 <br>
 
-Se realizaron varios ejercicios propuestos por la docente con el objetivo de reforzar estos temas. Dichas actividades se desarrollaron principalmente en el lenguaje **C** y, en menor cantidad, en el lenguaje **Java**. Gracias a esta práctica constante, se lograron **sentar las bases conceptuales** y **consolidar el aprendizaje**, permitiendo una mejor comprensión y aplicación de los contenidos estudiados.
+Se realizaron varios ejercicios propuestos por la docente con el objetivo de reforzar estos temas. Dichas actividades se desarrollaron principalmente en el lenguaje C y, en menor cantidad, en el lenguaje Java. Gracias a esta práctica constante, se lograron sentar las bases conceptuales y consolidar el aprendizaje, permitiendo una mejor comprensión y aplicación de los contenidos estudiados.
 
 
 ➡️ [**Ir a página siguiente**](/unidad2/contenidosUnidad/repetitivas.md) 
