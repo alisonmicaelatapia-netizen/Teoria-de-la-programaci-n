@@ -24,7 +24,7 @@
   <summary>💡 <strong>Unidad 2</strong></summary>
 
   #### 🧩 Contenidos de la Unidad
-  - [🔀 Estructuras condicionales](/unidad1/contenidosUnidad/algoritmos.md)
+  - [🔀 Estructuras condicionales](/unidad2/condicionales.md)
   - [🔁 Estructuras repetitivas](/unidad1/contenidosUnidad/programacionBloques.md)
   - [🔄 Ejercicio combinando estructura condicional y repetitiva](/unidad1/contenidosUnidad/ejemplosAlgoritmos.md)
   - [⚙️ Principales dificultades en la aplicación de los contenidos](/unidad1/contenidosUnidad/dificulatdes.md)
