@@ -25,3 +25,14 @@ escribirse múltiples veces, se especifique solo una vez dentro de un bucle faci
 ![Algoritmo Suma](/img/sumaDe10Numeros.png) <br>
 ![Algoritmo Suma](/img/sumaNumeros.png) <br>
 <br>
+
+* **do while:** Repite código en función de una condición, pero ejecuta el bloque al menos una vez antes de evaluar dicha condición,
+siendo útil cuando se necesita que el ciclo corra mínimo una vez.
+
+> **Ejemplo 3:**
+
+>  Algoritmo que cuenta cuántos números positivos ingresa el usuario hasta que introduce uno negativo o cero. <br>
+
+![Algoritmo Suma](/img/contarPositivos.png) <br>
+![Algoritmo Suma](/img/contadorPositivos.png) <br>
+<br>
