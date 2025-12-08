@@ -31,10 +31,10 @@
   - [🧠 Reflexión crítica de los aprendizajes de la unidad](/unidad1/contenidosUnidad/relfexión.md)
 
   #### 📂 Tareas entregadas
-  - [🔀 APE 1. Aplicación de estructuras condicionales en la resolución de problemas)](/unidad1/tareas/HerramientasDigitales.pdf)
-  - [🔁 APE 2. Aplicación de estructuras repetitivas en la resolución de problemas](/unidad1/tareas/InstalaciónLenguajes.pdf)
-  - [🧩 AA 1. Diferencias entre los tipos de estructuras condicionales](/unidad1/tareas/PrácticaLaboratorioN1.pdf)
-  - [📊 AA 2. Cuadro comparativo entre las estructuras repetitivas](/unidad1/tareas/construcciónPrograma.pdf)
+  - [🔀 APE 1. Aplicación de estructuras condicionales en la resolución de problemas)](/unidad2/tareas/APE1-Taller-estructuras-condicionales.pdf)
+  - [🔁 APE 2. Aplicación de estructuras repetitivas en la resolución de problemas](/unidad2/tareas/APE2-Aplicación-estructuras-repetitivas.pdf)
+  - [🧩 AA 1. Diferencias entre los tipos de estructuras condicionales](/unidad2/tareas/AA1-Tipos-condicionales1.pdf)
+  - [📊 AA 2. Cuadro comparativo entre las estructuras repetitivas](/unidad2/tareas/AA2-Estructuras-repetitivas.pdf)
 
 </details>
 
