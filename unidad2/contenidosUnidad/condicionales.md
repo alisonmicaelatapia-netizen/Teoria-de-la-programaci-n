@@ -31,6 +31,18 @@ Las estructuras condicionales son herramientas de programación que permiten que
 ![Algoritmo Suma](/img/calculadora.png) <br>
 <br>
 
+
+* **switch:** Evalúa una expresión, comparando el valor de esa expresión con una instancia (case), y ejecuta declaraciones
+  asociadas a ese case.
+
+> **Ejemplo 4:**
+
+>  Algoritmo que solicita un número del 1 al 7 y muestra el día de la semana correspondiente. <br>
+
+![Algoritmo Suma](/img/diaDeLaSemana.png) <br>
+![Algoritmo Suma](/img/dias.png) <br>
+<br>
+
 ➡️ [**Ir a página siguiente**](/unidad2/contenidosUnidad/repetitivas.md) 
 
 ➡️ [**Ir al índice**](/index.md)
