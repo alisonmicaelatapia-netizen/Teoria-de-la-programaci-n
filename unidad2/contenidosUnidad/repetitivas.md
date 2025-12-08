@@ -36,3 +36,8 @@ siendo útil cuando se necesita que el ciclo corra mínimo una vez.
 ![Algoritmo Suma](/img/contarPositivos.png) <br>
 ![Algoritmo Suma](/img/contadorPositivos.png) <br>
 <br>
+
+
+➡️ [**Ir a página siguiente**](/unidad2/contenidosUnidad/repetitivas.md)
+
+➡️ [**Ir al índice**](/index.md)
