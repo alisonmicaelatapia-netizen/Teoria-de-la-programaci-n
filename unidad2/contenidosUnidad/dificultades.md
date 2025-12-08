@@ -6,6 +6,6 @@ Además, al trabajar con estructuras condicionales, fue necesario revisar cuidad
 Aunque al inicio se cometieron varios errores, la práctica permitió mejorar la organización del código, fortalecer el razonamiento lógico y desarrollar mayor precisión al momento de programar.
 
 
-➡️ [**Ir a página siguiente**](/unidad1/contenidosUnidad/relfexión.md)
+➡️ [**Ir a página siguiente**](/unidad2/contenidosUnidad/reflexion.md)
 
 ➡️ [**Ir al índice**](/index.md)
