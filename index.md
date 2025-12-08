@@ -31,10 +31,11 @@
   - [🧠 Reflexión crítica de los aprendizajes de la unidad](/unidad1/contenidosUnidad/relfexión.md)
 
   #### 📂 Tareas entregadas
-  - [🧾 Herramientas de algoritmos (pseudocódigo y diagramas de flujo)](/unidad1/tareas/HerramientasDigitales.pdf)
-  - [🖥️ Instalación de lenguajes de programación (C, Python o Java)](/unidad1/tareas/InstalaciónLenguajes.pdf)
-  - [🧮 Primer acercamiento a la construcción de algoritmos secuenciales](/unidad1/tareas/PrácticaLaboratorioN1.pdf)
-  - [🔄 Del diseño del algoritmo a la construcción del programa](/unidad1/tareas/construcciónPrograma.pdf)
+  - [🔀 APE 1. Aplicación de estructuras condicionales en la resolución de problemas)](/unidad1/tareas/HerramientasDigitales.pdf)
+  - [🔁 APE 2. Aplicación de estructuras repetitivas en la resolución de problemas](/unidad1/tareas/InstalaciónLenguajes.pdf)
+  - [🧩 AA 1. Diferencias entre los tipos de estructuras condicionales](/unidad1/tareas/PrácticaLaboratorioN1.pdf)
+  - [📊 AA 2. Cuadro comparativo entre las estructuras repetitivas](/unidad1/tareas/construcciónPrograma.pdf)
+
 </details>
 
 <details>
