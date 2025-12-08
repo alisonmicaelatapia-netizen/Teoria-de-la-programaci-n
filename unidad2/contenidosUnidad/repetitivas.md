@@ -37,6 +37,6 @@ siendo útil cuando se necesita que el ciclo corra mínimo una vez.
 <br>
 
 
-➡️ [**Ir a página siguiente**](/unidad2/contenidosUnidad/ejercicioCombinado.md)
+➡️ [**Ir a página siguiente**](/unidad2/contenidosUnidad/ejercicioCombinado.md)  
 
 ➡️ [**Ir al índice**](/index.md)
