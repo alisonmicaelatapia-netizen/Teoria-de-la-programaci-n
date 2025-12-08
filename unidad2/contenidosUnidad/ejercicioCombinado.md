@@ -55,4 +55,7 @@ El programa debe cumplir lo siguiente: <br>
   <img src="/img/prueba-3.png" alt="Prueba 3" width="400"><br>
 </details>
 
-  
+
+➡️ [**Ir a página siguiente**](/unidad2/contenidosUnidad/dificultades.md)
+
+➡️ [**Ir al índice**](/index.md)
