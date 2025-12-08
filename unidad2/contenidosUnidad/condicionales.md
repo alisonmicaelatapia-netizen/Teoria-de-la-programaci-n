@@ -30,3 +30,7 @@ Las estructuras condicionales son herramientas de programación que permiten que
 ![Algoritmo Suma](/img/calculadoraBasica.png) <br>
 ![Algoritmo Suma](/img/calculadora.png) <br>
 <br>
+
+➡️ [**Ir a página siguiente**](/unidad2/contenidosUnidad/repetitivas.md) 
+
+➡️ [**Ir al índice**](/index.md)
