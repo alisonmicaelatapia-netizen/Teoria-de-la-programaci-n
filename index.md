@@ -46,9 +46,9 @@
 
 ---
 
-## 🤖 [Uso de la IA Generativa](usoIA.md)
+### 🤖 [Uso de la IA Generativa](usoIA.md)
 
-## 📚 [Bibliografía](/bibliografía.md)
+### 📚 [Bibliografía](/bibliografía.md)
 
 ---
 
