@@ -48,7 +48,7 @@
   - [🧠 Reflexión crítica de los aprendizajes de la unidad](/unidad3/reflexion.md)
 
   #### 📂 Tareas entregadas
-  - [🔀 APE 1.Construcción de funciones y procedimientos en un lenguaje de programación)](/unidad2/tareas/APE1-Taller-estructuras-condicionales.pdf)
+  - [🔀 APE 1.Construcción de funciones y procedimientos en un lenguaje de programación)](/unidad3/tareas/construcciónFunciones.pdf)
   - [🧩 AA 1. Curso Fundamentos de Python 1. Computación UNL](/unidad3/tareas/construcciónFunciones.pdf)
 </details>
 
