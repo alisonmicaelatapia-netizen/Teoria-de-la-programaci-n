@@ -48,10 +48,8 @@
   - [🧠 Reflexión crítica de los aprendizajes de la unidad](/unidad2/contenidosUnidad/reflexion.md)
 
   #### 📂 Tareas entregadas
-  - [🔀 APE 1. Aplicación de estructuras condicionales en la resolución de problemas)](/unidad2/tareas/APE1-Taller-estructuras-condicionales.pdf)
-  - [🔁 APE 2. Aplicación de estructuras repetitivas en la resolución de problemas](/unidad2/tareas/APE2-Aplicación-estructuras-repetitivas.pdf)
-  - [🧩 AA 1. Diferencias entre los tipos de estructuras condicionales](/unidad2/tareas/AA1-Tipos-condicionales1.pdf)
-  - [📊 AA 2. Cuadro comparativo entre las estructuras repetitivas](/unidad2/tareas/AA2-Estructuras-repetitivas.pdf)
+  - [🔀 APE 1.Construcción de funciones y procedimientos en un lenguaje de programación)](/unidad2/tareas/APE1-Taller-estructuras-condicionales.pdf)
+  - [🧩 AA 1. Curso Fundamentos de Python 1. Computación UNL](/unidad2/tareas/AA1-Tipos-condicionales1.pdf)
 </details>
 
 ---
