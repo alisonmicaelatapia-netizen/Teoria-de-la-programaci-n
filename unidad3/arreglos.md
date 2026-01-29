@@ -7,6 +7,9 @@ Es una estructura de datos que almacena elementos del mismo tipo en una sola lis
   //Columnas
   int numeros[5] = {1, 2, 3, 4, 5};
 
+  //Acceso a elementos sintaxis
+  array[i]
+
 ```
 * **Bidimensional:**
   Es una estructura de datos que organiza la información en filas y columnas, similar a una tabla o matriz, y permite acceder a cada elemento mediante dos índices que representan su posición.
@@ -16,6 +19,9 @@ Es una estructura de datos que almacena elementos del mismo tipo en una sola lis
   {1, 2, 3},
   {4, 5, 6}
 };
+
+ //Acceso a elementos sintaxis
+  array[fila][columna]
 ```
 
 * **Tridimensional:**
@@ -26,5 +32,8 @@ Es una estructura de datos que almacena elementos del mismo tipo en una sola lis
   { {1, 2}, {3, 4} },
   { {5, 6}, {7, 8} }
 };
+
+//Acceso a elementos sintaxis
+  array[capa][fila][columna]
 ```
 
