@@ -41,7 +41,17 @@
 <details>
   <summary>🚀 <strong>Unidad 3</strong></summary>
 
-  - *(Contenidos próximamente...)*
+  - #### 🧩 Contenidos de la Unidad
+  - [🔀 Modularidad](/unidad2/contenidosUnidad/condicionales.md)
+  - [🔁 Arreglos](/unidad2/contenidosUnidad/repetitivas.md)
+  - [⚙️ Principales dificultades en la aplicación de los contenidos](/unidad2/contenidosUnidad/dificultades.md)
+  - [🧠 Reflexión crítica de los aprendizajes de la unidad](/unidad2/contenidosUnidad/reflexion.md)
+
+  #### 📂 Tareas entregadas
+  - [🔀 APE 1. Aplicación de estructuras condicionales en la resolución de problemas)](/unidad2/tareas/APE1-Taller-estructuras-condicionales.pdf)
+  - [🔁 APE 2. Aplicación de estructuras repetitivas en la resolución de problemas](/unidad2/tareas/APE2-Aplicación-estructuras-repetitivas.pdf)
+  - [🧩 AA 1. Diferencias entre los tipos de estructuras condicionales](/unidad2/tareas/AA1-Tipos-condicionales1.pdf)
+  - [📊 AA 2. Cuadro comparativo entre las estructuras repetitivas](/unidad2/tareas/AA2-Estructuras-repetitivas.pdf)
 </details>
 
 ---
