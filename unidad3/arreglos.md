@@ -36,4 +36,6 @@ Es una estructura de datos que almacena elementos del mismo tipo en una sola lis
 //Acceso a elementos sintaxis
   array[capa][fila][columna]
 ```
+➡️ [**Ir a página siguiente**](/unidad3/dificultades.md) 
 
+➡️ [**Ir al índice**](/index.md)
