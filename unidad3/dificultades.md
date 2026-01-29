@@ -3,6 +3,6 @@ Una de las principales dificultades que se me dio en el tema de matrices es la c
 
 En cuanto a la modularidad, se me complicó comprender cómo dividir un sistema o problema en módulos independientes y entender la función específica de cada uno. También puede resultar complejo identificar la relación entre los módulos y cómo interactúan entre sí, lo que dificulta visualizar el sistema como un conjunto organizado. Esta falta de claridad puede provocar confusión al momento de analizar o diseñar soluciones de forma estructurada y también se me complicó el paso de parámetros por valor y por referencia.
 
-➡️ [**Ir a página siguiente**](/unidad3/contenidosUnidad/reflexion.md)
+➡️ [**Ir a página siguiente**](/unidad3/reflexion.md)
 
 ➡️ [**Ir al índice**](/index.md)
