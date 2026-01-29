@@ -16,8 +16,14 @@ Las funciones son bloques de código diseñados para realizar una tarea específ
 }
 
 ```
-* **Pase de parámetros por valor:**Se envía el contenido de la variable, ejemplo=8, se envía el 8 a la función que lo utilizara en sus instrucciones, pero la variable original no se altera.
+* **Pase de parámetros por valor:**
+  Se envía el contenido de la variable a la función que lo utilizara en sus instrucciones, pero la variable original no se altera.
+
   ![Parametros por valor](/img/parametroValor.png) <br>
+
+  
+  > Ejemplo 1: Se intenta intercambiar los valores de a y b, pero al pasarlos por valor la función solo modifica copias, por lo que los valores originales no cambian.
+  
 
 </details>
 > **Ejemplo 1:**
