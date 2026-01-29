@@ -43,7 +43,7 @@
 
   - #### 🧩 Contenidos de la Unidad
   - [🔀 Modularidad](/unidad3/modularidad.md)
-  - [🔁 Arreglos](/unidad2/contenidosUnidad/repetitivas.md)
+  - [🔁 Arreglos](/unidad3/arreglos.md)
   - [⚙️ Principales dificultades en la aplicación de los contenidos](/unidad2/contenidosUnidad/dificultades.md)
   - [🧠 Reflexión crítica de los aprendizajes de la unidad](/unidad2/contenidosUnidad/reflexion.md)
 
