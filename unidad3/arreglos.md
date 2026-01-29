@@ -1,4 +1,4 @@
-# Arreglos
+# 🔁 Arreglos
 Es una estructura de datos que permite almacenar un conjunto de elementos del mismo tipo bajo un único nombre, organizados en posiciones consecutivas de memoria y accesibles mediante un índice. Esta organización facilita el acceso directo a cada elemento, lo que mejora la eficiencia en la manipulación de datos [5]. Los arrays se utilizan comúnmente para gestionar colecciones de información, como listas de números o registros, y pueden ser de tamaño fijo o, según el lenguaje de programación, dinámico, lo que los convierte en una herramienta fundamental en el desarrollo de algoritmos y aplicaciones.
 * **Unidimensional:**
 Es una estructura de datos que almacena elementos del mismo tipo en una sola lista, a los que se accede mediante   un único índice.
