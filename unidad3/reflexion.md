@@ -1,1 +1,2 @@
-
+Durante el desarrollo de esta unidad, el estudio de la modularidad y los arreglos permitió comprender la importancia de estructurar correctamente un programa para mejorar su organización, legibilidad y mantenimiento. La modularidad, especialmente a través del uso de parámetros por valor y por referencia, evidenció cómo la forma de pasar la información entre módulos influye directamente en el funcionamiento del programa y en la gestión de los datos. También el aprendizaje sobre arreglos facilitó el manejo de conjuntos de datos de forma ordenada, permitiendo acceder a la información mediante índices específicos. 
+En esta unidad fortalecí la capacidad de análisis lógico y tuve una mejor comprensión de cómo organizar la información y los procesos de manera modular.
