@@ -33,3 +33,6 @@ Las funciones son bloques de código diseñados para realizar una tarea específ
   > Ejemplo 2: En este ejercicio se realiza el intercambio de los valores de a y b mediante paso de parámetros por referencia, lo que permite modificar directamente las variables originales.
 </details>
 
+➡️ [**Ir a página siguiente**](/unidad3/arreglos.md) 
+
+➡️ [**Ir al índice**](/index.md)
