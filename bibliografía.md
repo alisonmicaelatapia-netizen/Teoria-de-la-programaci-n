@@ -6,6 +6,7 @@
 [3] J. A. J. Murillo, E. M. J. Hernández, y L. N. A. Zamora, *Fundamentos de programación: diagramas de flujo, diagramas NS, pseudocódigo y java*, 1ª ed. México, D. F., México: Alfaomega Grupo Editor, 2014. [En línea]. Disponible en: https://books.google.com.ec/books?id=NNh0EAAAQBAJ
 
 [4] E. Guzmán Y Valle, A. Máter, D. Magisterio, N. Facultad, D. E. Ciencias, y H. C. Tineo, *UNIVERSIDAD NACIONAL DE EDUCACIÓN,* [En línea]. Disponible en: https://repositorio.une.edu.pe/server/api/core/bitstreams/2e2e6a55-fc90-427c-9f76-672b903aeb24/content. (Consultado: 28 octubre 2025).
+
 [5] J. E. Guerra Salazar, M. V. Ramos Valencia, y G. E. Vallejo Vallejo, Programando en C desde la práctica: problemas resueltos. Puerto Madero Editorial, 2023. [En línea]. Disponible en: https://dialnet.unirioja.es/servlet/libro?codigo=933288
 
 ➡️ [**Ir al índice**](/index.md)
