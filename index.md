@@ -44,8 +44,8 @@
   - #### 🧩 Contenidos de la Unidad
   - [🔀 Modularidad](/unidad3/modularidad.md)
   - [🔁 Arreglos](/unidad3/arreglos.md)
-  - [⚙️ Principales dificultades en la aplicación de los contenidos](/unidad2/contenidosUnidad/dificultades.md)
-  - [🧠 Reflexión crítica de los aprendizajes de la unidad](/unidad2/contenidosUnidad/reflexion.md)
+  - [⚙️ Principales dificultades en la aplicación de los contenidos](/unidad3/dificultades.md)
+  - [🧠 Reflexión crítica de los aprendizajes de la unidad](/unidad3/reflexion.md)
 
   #### 📂 Tareas entregadas
   - [🔀 APE 1.Construcción de funciones y procedimientos en un lenguaje de programación)](/unidad2/tareas/APE1-Taller-estructuras-condicionales.pdf)
