@@ -2,7 +2,7 @@
 
 Las estructuras repetitivas son bloques de código que permiten ejecutar un conjunto de instrucciones de forma continua, repitiéndolas varias veces hasta que una condición específica deja de cumplirse. Su principal propósito es automatizar tareas repetitivas, evitando la necesidad de escribir el mismo código una y otra vez.
 
-Como se indica, “permiten que una secuencia de código, que de otra manera debería escribirse múltiples veces, se especifique solo una vez dentro de un bucle, facilitando su mantenimiento y comprensión” [2]. Gracias a estas estructuras, los programas se vuelven más eficientes, claros y fáciles de modificar, además de reducir errores y mejorar la lógica general del algoritmo.
+Como se indica, “permiten que una secuencia de código, que de otra manera debería escribirse múltiples veces, se especifique solo una vez dentro de un bucle, facilitando su mantenimiento y comprensión” [4]. Gracias a estas estructuras, los programas se vuelven más eficientes, claros y fáciles de modificar, además de reducir errores y mejorar la lógica general del algoritmo.
 
 **Tipos**
 * **for:** Se utiliza para repetir código basado en una condición cuando se conoce el número exacto de iteraciones o se tiene un
