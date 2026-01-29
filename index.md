@@ -49,7 +49,7 @@
 
   #### 📂 Tareas entregadas
   - [🔀 APE 1.Construcción de funciones y procedimientos en un lenguaje de programación)](/unidad2/tareas/APE1-Taller-estructuras-condicionales.pdf)
-  - [🧩 AA 1. Curso Fundamentos de Python 1. Computación UNL](/unidad3/tareas/pythonCertificado.pdf)
+  - [🧩 AA 1. Curso Fundamentos de Python 1. Computación UNL](/unidad3/tareas/construcciónFunciones.pdf)
 </details>
 
 ---
